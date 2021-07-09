@@ -11,7 +11,7 @@ I’m currently learning React, three.js and Blender 💖, and finishing a full 
 
 
 
-You can reach here 📧 carolinasantamaria.dev@gmail.com 
+You can reach me here 📧 carolinasantamaria.dev@gmail.com 
 
 I sometimes post drawings in my [ig profile](https://www.instagram.com/cartografa/ "ig profile").
 
