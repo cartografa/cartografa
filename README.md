@@ -13,7 +13,7 @@ I’m currently learning React, three.js and Blender 💖, and finishing a full 
 
 You can reach me here 📧 carolinasantamaria.dev@gmail.com 
 
-I sometimes post drawings in my [ig profile](https://www.instagram.com/cartografa/ "ig profile").
+I sometimes post drawings on my [ig profile](https://www.instagram.com/cartografa/ "ig profile").
 
 <!---
 cartografa/cartografa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
