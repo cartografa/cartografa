@@ -1,10 +1,14 @@
 Hi 👋, I’m Carolina.
 
-A front-end developer and illustrator from Argentina. 
+A developer and illustrator from Argentina. 
 
-I'm interested in animation, design and game development.
+I’m currently learning React, three.js and Blender, and finishing a Full Stack Web Development Bootcamp with Node.js 💖.   
+I'm also progressing towards completing my Bachelor of Computer Science 🎓.
 
-I’m currently learning React, three.js and Blender 💖, and finishing a full stack web development bootcamp with Node.js.
+
+I looooove animations, design and game development.
+
+
 
 
 ------------
@@ -12,8 +16,6 @@ I’m currently learning React, three.js and Blender 💖, and finishing a full 
 
 
 You can reach me here 📧 carolinasantamaria.dev@gmail.com 
-
-I sometimes post drawings on my [ig profile](https://www.instagram.com/cartografa/ "ig profile").
 
 <!---
 cartografa/cartografa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
