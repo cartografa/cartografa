@@ -6,7 +6,7 @@ I’m currently finishing a Full Stack Web Development Bootcamp with Node.js and
 I'm also progressing towards completing my Bachelor of Computer Science 🎓.
 
 
-I looooove animations, design and game development and I'm interested in libraries such as three.js, p5.js and GSAP.
+I looooove animations, design and game development and I'm interested in libraries such as three.js and GSAP.
 
 
 
