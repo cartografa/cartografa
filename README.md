@@ -1,9 +1,9 @@
 Hi 👋, I’m Carolina.
 
-A developer (and illustrator) from Argentina. 
+A developer (and illustrator 🎨) from Argentina. 
 
-I’m currently finishing a Full Stack Web Development Bootcamp with Node.js and learning React 💖.   
-I'm also progressing towards completing my Bachelor of Computer Science 🎓.
+I’m currently finishing a Full Stack Web Development Bootcamp with Node.js while learning React ✨.   
+I'm also progressing towards completing my Bachelor of Computer Science.
 
 
 I looooove animations, design and game development and I'm interested in libraries such as three.js and GSAP.
