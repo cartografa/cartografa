@@ -2,7 +2,7 @@ Hi 👋, I’m Carolina.
 
 A developer (and illustrator 🎨) from Argentina. 
 
-I’v finished a Full Stack Web Development Bootcamp with Node.js and now I'm deepening my knowledge of React, but I also love all kind of WebGL and inmersive experiences.   
+I’ve finished a Full Stack Web Development Bootcamp with Node.js and now I'm deepening my knowledge of React, but I also love all kind of WebGL and inmersive experiences.   
 I'm progressing towards completing a Bachelor of IT.
 
 
