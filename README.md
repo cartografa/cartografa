@@ -1,17 +1,15 @@
 Hi 👋, I’m Carolina.
 
-A developer (and illustrator 🎨) from Argentina. 
+A developer from Argentina. 
 
-I’ve finished a Full Stack Web Development Bootcamp with Node.js and now I'm deepening my knowledge of React, but I also love all kind of WebGL and inmersive experiences.   
-I'm progressing towards completing a Bachelor of IT.
+I work as a Frontend Developer while studying a Bachelor of IT.
 
+I also draw a lot! 👩‍🎨
 
-My interests include animation, design, game development and reading ✨.
-
+My interests include: animation, design, music, retrogaming and reading ✨.
 
 ------------
 
-I'm open to work!  
 You can reach me here 📧 carolinasantamaria.dev@gmail.com 
 
 <!---
