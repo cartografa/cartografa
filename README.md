@@ -1,12 +1,8 @@
 Hi 👋, I’m Carolina.
 
-A developer from Argentina. 
-
 I work as a Frontend Developer while studying a Bachelor of IT.
 
-I also draw a lot! 👩‍🎨
-
-My interests include: animation, design, music, retrogaming and reading ✨.
+My interests include: animation, design, music, drawing, retrogaming and reading ✨.
 
 ------------
 
